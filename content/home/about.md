@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = "PhD in Control Science and Engineering"
   institution = "Harbin Institute of Technology, P.R.C"
-  year = 2015
+  year = _Current_
 
 [[education.courses]]
   course = "MEng in Control Science and Engineering"
   institution = "Harbin Institute of Technology, P.R.C"
-  year = 2013
+  year = 2015
 
 [[education.courses]]
   course = "BEng in Electronics Engineering"
   institution = "National University of Sciences and Technology, Pakistan"
-  year = 2008
+  year = 2012
  
 +++
 
