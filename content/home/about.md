@@ -19,7 +19,6 @@ weight = 5
 [[education.courses]]
   course = "PhD in Control Science and Engineering"
   institution = "Harbin Institute of Technology, P.R.C"
-  year =
 
 [[education.courses]]
   course = "MEng in Control Science and Engineering"
