@@ -1,5 +1,5 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Design of high efficiency wireless power transmission system at low resonant frequency"
 
 # Date first published.
 date = "2014-09-21"
@@ -19,8 +19,8 @@ authors = ["Muhammad Taha Ali", "Ali Anwar", "Umais Tayyab", "Yasir Iqbal", "Tau
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE 16th International Power Electronics and Motion Control Conference and Exposition (PEMC), 2014"
-publication_short = "IEEE 16th International Power Electronics and Motion Control Conference and Exposition (PEMC), 2014"
+publication = "IEEE 16th International Power Electronics and Motion Control Conference and Exposition (PEMC2014)"
+publication_short = "IEEE 16th International Power Electronics and Motion Control Conference and Exposition (PEMC2014)"
 
 # Abstract and optional shortened version.
 abstract = ""
