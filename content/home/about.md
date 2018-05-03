@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Visual Servo Control",
+    "Computer Vision",
+    "Robotics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Control Science and Engineering"
+  institution = "Harbin Institute of Technology, P.R.C"
+  year = 2015 - _present_
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MEng in Control Science and Engineering"
+  institution = "Harbin Institute of Technology, P.R.C"
+  year = 2013 - 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BEng in Electronics Engineering"
+  institution = "National University of Sciences and Technology, Pakistan"
+  year = 2008 - 2012
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Ali Anwar is a PhD candidate working under the supervision of [Prof. Huijun Gao](https://scholar.google.com/citations?user=2DdpHLEAAAAJ&hl=en) at [Harbin Institute of Technology](http://en.hit.edu.cn/). His research interests include Intelligent Manufacturing, Visual Servo Control, Computer Vision and Robotics.
