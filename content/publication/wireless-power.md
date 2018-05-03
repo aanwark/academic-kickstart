@@ -2,7 +2,7 @@
 title = "A publication title, such as title of a paper"
 
 # Date first published.
-date = "2014-9-21"
+date = "2014-09-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Muhammad Taha Ali", "Ali Anwar", "Umais Tayyab", "Yasir Iqbal", "Tauseef Tauqeer", "Usman Nasir"]
