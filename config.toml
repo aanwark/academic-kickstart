@@ -249,6 +249,11 @@ enableGitInfo = false
     link = "//github.com/denoza"
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/alianwar1/"
+
+  [[params.social]]
     icon = "cv"
     icon_pack = "ai"
     link = "files/cv_12.pdf"
