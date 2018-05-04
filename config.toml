@@ -248,6 +248,11 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//github.com/denoza"
 
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/cv.pdf"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
