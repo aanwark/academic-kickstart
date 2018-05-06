@@ -236,12 +236,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=8bC9-DYAAAAJ"
+    link = "//scholar.google.com/citations?user=8bC9-DYAAAAJ"
 
   [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
-    link = "https://orcid.org/0000-0002-5523-0634"
+    link = "//orcid.org/0000-0002-5523-0634"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "//researchgate.net/profile/Ali_Anwar9"
 
   [[params.social]]
     icon = "github"
