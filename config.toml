@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Harbin Institute of Technology", url = "http://en.hit.edu.cn" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "010.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "pic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ali dot anwar AT hit dot edu dot cn"
   address = "Research Institute of Intelligent Systems and Control, Harbin Institute of Technology, Harbin, P.R.C"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
